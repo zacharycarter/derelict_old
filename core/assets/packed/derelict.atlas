@@ -1,0 +1,146 @@
+
+derelict.png
+size: 512,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ai
+  rotate: false
+  xy: 2, 80
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 1
+ai
+  rotate: false
+  xy: 260, 594
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 2
+door_tile01
+  rotate: false
+  xy: 2, 54
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+floor_tile01
+  rotate: false
+  xy: 28, 80
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+floor_tile_e
+  rotate: false
+  xy: 2, 106
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+horizontal_wall_segment
+  rotate: false
+  xy: 260, 568
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+player_idle_unarmed
+  rotate: false
+  xy: 286, 594
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 1
+player_idle_unarmed
+  rotate: false
+  xy: 2, 28
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 2
+ship_internals
+  rotate: false
+  xy: 28, 54
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+trans
+  rotate: false
+  xy: 54, 80
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+vertical_wall_segment
+  rotate: false
+  xy: 260, 542
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+wall_bottom_t
+  rotate: false
+  xy: 286, 568
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+wall_intersection
+  rotate: false
+  xy: 312, 594
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+wall_left_t
+  rotate: false
+  xy: 2, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+wall_ne_corner
+  rotate: false
+  xy: 28, 28
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+wall_nw_corner
+  rotate: false
+  xy: 54, 54
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+wall_right_t
+  rotate: false
+  xy: 80, 80
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+wall_se_corner
+  rotate: false
+  xy: 260, 516
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+wall_sw_corner
+  rotate: false
+  xy: 286, 542
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+wall_top_t
+  rotate: false
+  xy: 312, 568
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1

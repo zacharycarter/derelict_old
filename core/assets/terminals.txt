@@ -1,0 +1,9 @@
+start
+exit
+opponent
+boss
+key
+lock
+trap
+chest
+buff

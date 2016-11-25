@@ -1,0 +1,15 @@
+[submodule "metazelda"]
+	path = metazelda
+	url = https://github.com/tcoxon/metazelda.git
+[submodule "gameutil"]
+	path = gameutil
+	url = https://github.com/tcoxon/gameutil.git
+[submodule "shipwright"]
+	path = shipwright
+	url = https://github.com/stewsters/shipwright.git
+[submodule "stewsters-util"]
+	path = stewsters-util
+	url = https://github.com/stewsters/stewsters-util.git
+[submodule "power-voronoi-diagram"]
+	path = power-voronoi-diagram
+	url = https://github.com/ArlindNocaj/power-voronoi-diagram.git

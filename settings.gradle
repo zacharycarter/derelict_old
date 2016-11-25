@@ -1,0 +1,1 @@
+include 'desktop', 'core', 'gameutil', 'metazelda', 'shipwright'
